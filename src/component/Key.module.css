@@ -1,0 +1,8 @@
+.btncont{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+    background-color: rgb(49, 42, 64);
+    border-radius: 10px;
+}
